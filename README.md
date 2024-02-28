@@ -12,6 +12,7 @@ num_telaio|CHAR(17)|NOTNULL, UNIQUE
 marchio|VARCHAR(20)|NOTNULL
 modello|VARCHAR(20)|NOTNULL
 allestimento|VARCHAR(20)|NULL
+prezzo|MEDIUMINT|NOTNULL
 paese_d'origine|CHAR(5)|NULL
 tipologia_cambio|CHAR(1)|NOTNULL
 porte|TINYINT|NOTNULL
